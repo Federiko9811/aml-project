@@ -1,0 +1,10 @@
+/data
+notebooks/mlp/checkpoints
+notebooks/mlp/lightning_logs
+.idea
+.venv
+.env
+
+checkpoints
+mlp
+submission_mlp.csv
